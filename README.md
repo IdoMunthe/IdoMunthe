@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm currently studying *Software Engineering* on **Brawijaya University**.
 
-I'm currently a **cohort on Bangkit Academy Machine Learning Learning Path** [Bangkit Academy information](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
+I'm currently a **cohort on Bangkit Academy Machine Learning Learning Path**
 
-You can find me at [LinkedIn](https://www.linkedin/in/idomunthe)
+[Bangkit Academy information](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
+
+You can find me at [LinkedIn -> Ido Munthe](https://www.linkedin/in/idomunthe)
