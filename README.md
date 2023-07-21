@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center" width="50%"  src="https://thumbs.gfycat.com/AshamedWeightyDachshund.webp">
-</p>
+
 <h1 align="center">Hi, beautiful people 👋, I'm Ido Munthe</h1>
 <h3 align="center">I am ready to witness AI changing the world!</h3>
 <img align="right" alt="Neural Network" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
