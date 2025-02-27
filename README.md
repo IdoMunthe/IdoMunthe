@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi, beautiful people 👋, I'm Ido Munthe</h1>
-<h3 align="center">I am ready to witness AI changing the world!</h3>
+<h3 align="center"> AI-driven Software Developer with experience in building high quality web and mobile applications !</h3>
 <img align="right" alt="Neural Network" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idomunthe&label=Profile%20views&color=0e75b6&style=flat" alt="idomunthe" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Data Science**
 
 - 📫 How to reach me **idomunthe.dev@gmail.com**
 
