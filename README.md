@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, beautiful people 👋, I'm Ido Munthe</h1>
 <h3 align="center"> AI-driven Software Developer with experience in building high quality web and mobile applications !</h3>
-<a align="center" href="https://idomunthe.github.io/portfolio/">My Website</a>
+<h3 align="center"><ahref="https://idomunthe.github.io/portfolio/">My Website</a></h3>
 <img align="right" alt="Neural Network" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idomunthe&label=Profile%20views&color=0e75b6&style=flat" alt="idomunthe" /> </p>
